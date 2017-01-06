@@ -5,3 +5,6 @@ This is a release repository for MaST Android that consist of the 4 testing appl
 This document includes a tutorial on how to install a MaST Android release.
 
 ## Installation
+
+  1) blealal
+  2) balsasa
