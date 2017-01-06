@@ -6,5 +6,5 @@ This document includes a tutorial on how to install a MaST Android release.
 
 ## Installation
 
-  1) blealal
-  2) balsasa
+  * Blasalsasaas
+  * Blasasasa
