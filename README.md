@@ -6,5 +6,5 @@ This document includes a tutorial on how to install a MaST Android release.
 
 ## Installation
 
-  1. Blasalsasaas
-  2. Blasasasa
+  1. Fill in the installation
+  2. Syaff fill in...
